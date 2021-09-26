@@ -23,6 +23,13 @@ Para tanto, o <em><b>Classificador Naive Bayes </b></em> foi utilizado!
 2. seaborn
 3. sklearn
 4. nltk
+5. pandas
+6. matplotlib.pyplot
+7. numpy
+8. os
+9. re
+10. functools
+11. operator
 
 ### Principais bibliografias:
 
