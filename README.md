@@ -36,3 +36,11 @@ Para tanto, o <em><b>Classificador Naive Bayes </b></em> foi utilizado!
 [Naive Bayes and Text Classification](https://arxiv.org/pdf/1410.5329.pdf)  **Mais completo**
 
 [A practical explanation of a Naive Bayes Classifier](https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/) **Mais simples**
+
+[La Casa de Papel' vence Emmy Internacional de melhor série dramática](https://g1.globo.com/mundo/noticia/2018/11/20/la-casa-de-papel-vence-emmy-internacional-de-melhor-serie-dramatica.ghtml) 
+
+[Bazinga! Caracterizando e Detectando Sarcasmo e Ironia no Twitter](https://sol.sbc.org.br/index.php/brasnam/article/view/6778) 
+
+[Better Naive Bayes: 12 Tips To Get The Most From The Naive Bayes Algorithm](https://machinelearningmastery.com/better-naive-bayes/) 
+
+[Melhorando a Performance do Algoritmo Naive Bayes para Regressão Através da Combinação de Atributos](https://www.cos.ufrj.br/~ines/enia07_html/pdf/28095.pdf) 
